@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue;
+    display: flex;justify-content: center;
+    border-radius:10px ;
+
+}
+
+
+
+
+.login{
+    text-align: center;
+    color: yellow;
+}
+.input{
+    border-radius: 10px;
+}

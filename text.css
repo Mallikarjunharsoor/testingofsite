@@ -1,0 +1,24 @@
+#text1{
+    color: yellow;
+}
+#text2{
+text-align: center;
+}
+#text3{
+text-decoration: line-through;
+}
+#text4{
+text-indent: 20px;
+}
+#text5{
+ letter-spacing: 15px;   
+}
+#text6{
+    font-style: oblique;
+}
+#text7{
+    font-variant:small-caps;
+}
+#text8{
+    font-weight: 500;
+}
